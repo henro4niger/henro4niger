@@ -22,10 +22,10 @@
 ### Technologies & Frameworks
 [![Kubernetes](https://img.shields.io/static/v1?style=for-the-badge&message=Kubernetes&color=326CE5&logo=Kubernetes&logoColor=FFFFFF&label=)](https://github.com/henro4niger)
 [![Terraform](https://img.shields.io/static/v1?style=for-the-badge&message=Terraform&color=7B42BC&logo=Terraform&logoColor=FFFFFF&label=)](https://github.com/henro4niger)
-[![AWS](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+AWS&color=232F3E&logo=Amazon+AWS&logoColor=FFFFFF&label=)](https://hub.docker.com/u/henro4niger)
-[![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)](https://hub.docker.com/u/henro4niger)
-[![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/henro4niger)
-![Grafana](https://img.shields.io/static/v1?style=for-the-badge&message=Grafana&color=F46800&logo=Grafana&logoColor=FFFFFF&label=)](https://hub.docker.com/u/henro4niger)
+[![AWS](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+AWS&color=232F3E&logo=Amazon+AWS&logoColor=FFFFFF&label=)](https://github.com/henro4niger)
+[![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)](https://github.com/henro4niger)
+[![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/repositories/henro4niger)
+[![Grafana](https://img.shields.io/static/v1?style=for-the-badge&message=Grafana&color=F46800&logo=Grafana&logoColor=FFFFFF&label=)](https://github.com/henro4niger)
 
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/henro4niger)
