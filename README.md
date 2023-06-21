@@ -32,7 +32,7 @@
 
 <p align="center">
   <a href="https://github.com/henro4niger">
-    <img src="https://komarev.com/ghpvc/?username=henro4niger&color=brightgreen)" />
+    <img src="https://komarev.com/ghpvc/?username=henro4niger&color=green)" />
   </a>
 </p>
 <!--
