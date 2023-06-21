@@ -20,15 +20,15 @@
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/wervlad)
 
 ### Technologies & Frameworks
-[![Kubernetes]([https://img.shields.io/badge/django-black?style=for-the-badge&logo=django](https://img.shields.io/static/v1?style=for-the-badge&message=Kubernetes&color=326CE5&logo=Kubernetes&logoColor=FFFFFF&label=))](https://github.com/henro4niger)
-[![Terraform]([https://img.shields.io/badge/react-black?style=for-the-badge&logo=react](https://img.shields.io/static/v1?style=for-the-badge&message=Terraform&color=7B42BC&logo=Terraform&logoColor=FFFFFF&label=))](https://github.com/henro4niger)
-[![AWS]([https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+AWS&color=232F3E&logo=Amazon+AWS&logoColor=FFFFFF&label=))](https://hub.docker.com/u/henro4niger)
-[![MongoDB]([https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3](https://img.shields.io/static/v1?style=for-the-badge&message=Mongoose&color=880000&logo=Mongoose&logoColor=FFFFFF&label=))](https://hub.docker.com/u/henro4niger)
+[![Kubernetes](https://img.shields.io/static/v1?style=for-the-badge&message=Kubernetes&color=326CE5&logo=Kubernetes&logoColor=FFFFFF&label=)](https://github.com/henro4niger)
+[![Terraform](https://img.shields.io/static/v1?style=for-the-badge&message=Terraform&color=7B42BC&logo=Terraform&logoColor=FFFFFF&label=)](https://github.com/henro4niger)
+[![AWS](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+AWS&color=232F3E&logo=Amazon+AWS&logoColor=FFFFFF&label=)](https://hub.docker.com/u/henro4niger)
+[![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=Mongoose&color=880000&logo=Mongoose&logoColor=FFFFFF&label=)](https://hub.docker.com/u/henro4niger)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/henro4niger)
 
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/henro4niger)
-[![macOS]([https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Window](https://img.shields.io/static/v1?style=for-the-badge&message=macOS&color=000000&logo=macOS&logoColor=FFFFFF&label=)s)](https://github.com/henro4niger)
+[![macOS](https://img.shields.io/static/v1?style=for-the-badge&message=macOS&color=000000&logo=macOS&logoColor=FFFFFF&label=)](https://github.com/henro4niger)
 
 <p align="center">
   <a href="https://github.com/wervlad">
