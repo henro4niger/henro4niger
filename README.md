@@ -31,8 +31,8 @@
 [![macOS](https://img.shields.io/static/v1?style=for-the-badge&message=macOS&color=000000&logo=macOS&logoColor=FFFFFF&label=)](https://github.com/henro4niger)
 
 <p align="center">
-  <a href="https://github.com/wervlad">
-    <img src="https://komarev.com/ghpvc/?username=wervlad&color=blue&style=flat)" />
+  <a href="https://github.com/henro4niger">
+    <img src="https://komarev.com/ghpvc/?username=henro4niger&color=blue&style=flat)" />
   </a>
 </p>
 <!--
